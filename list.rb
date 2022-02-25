@@ -1,4 +1,4 @@
-require_relative 'my_enumerable'
+require_relative 'enumerable'
 
 class MyList
   include MyEnumerable
@@ -7,7 +7,7 @@ class MyList
   end
 
   def each
-    @list.length.time do |index|
+    @list.length.times do |index|
       yield @list[index] if block_given?
     end
   end
