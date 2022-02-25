@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [Lilian Moraa](https://www.linkedin.com/in/lilian-moraa-99950b1b8/)
 
 
-👤 **Lilian Moraa**
+👤 **Ellis Ngona**
 
 - GitHub: [@mwanawabangona](https://github.mwanawabangona/)
 - LinkedIn: [Ellis Ngona](https://https://www.linkedin.com/in/ellisngona/)
