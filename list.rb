@@ -28,4 +28,3 @@ list.any? { |e| e == 2 }
 # true
 list.any? { |e| e == 5 }
 # false
-
