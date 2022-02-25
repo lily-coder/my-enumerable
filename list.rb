@@ -6,8 +6,10 @@ class MyList
     @list = list
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each
+    @list.length.time do |index|
+      yield @list[index] if block_given?
+    end
   end
 end
 
