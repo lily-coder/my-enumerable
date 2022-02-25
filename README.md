@@ -20,6 +20,13 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@lily-coder](https://github.com/lily-coder/)
 - LinkedIn: [Lilian Moraa](https://www.linkedin.com/in/lilian-moraa-99950b1b8/)
 
+
+👤 **Ellis Ngona**
+
+- GitHub: [@mwanawabangona](https://github.mwanawabangona/)
+- LinkedIn: [Ellis Ngona](https://https://www.linkedin.com/in/ellisngona/)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
