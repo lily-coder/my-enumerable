@@ -5,7 +5,6 @@ module MyEnumerable
       end
       true
     end
-
   
     def any?
       each do |e|
@@ -13,7 +12,6 @@ module MyEnumerable
       end
       false
     end
-
   
     def filter
       result = []
@@ -22,7 +20,6 @@ module MyEnumerable
       end
       result
     end
-  
 
     def max
       max = nil
@@ -31,7 +28,6 @@ module MyEnumerable
       end
       max
     end
-    
   
     def min
       min = nil
@@ -49,4 +45,3 @@ module MyEnumerable
       result.sort
     end
   end
-
